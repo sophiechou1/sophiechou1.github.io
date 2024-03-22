@@ -1,6 +1,6 @@
 ## About
-<img src="/assets/Sophie Chou Headshot.jpg" alt="Alt text" width="170" height="160">
-Hi, I'm Sophie, a current sophomore at the University of Notre Dame! I am studying Computer Science with a minor in Engineering Corporate Practice. At the University of Notre Dame, I am dedicated to pursuing a well-rounded education that will help me positively contribute to the global community in both the tech and business industries.
+<img src="/assets/Sophie Chou Headshot.jpg" alt="Alt text" width="180" height="165">
+- Hi, I'm Sophie, a current sophomore at the University of Notre Dame! I am studying Computer Science with a minor in Engineering Corporate Practice. At the University of Notre Dame, I am dedicated to pursuing a well-rounded education that will help me positively contribute to the global community in both the tech and business industries.
 
 ## Experience
 ### Undergraduate Student Researcher
