@@ -10,5 +10,6 @@
 ### Undergraduate Student Researcher
 - Research intern, studying transformers under Notre Dame professor Dr. Michael Niemier. Currently working on campus, but researching in Lyon, France during the summer of 2024 as a part of the National Science Foundation's International Research Experiences for Students (IRES) program.
 
-# LinkedIn
+# Links
 - [LinkedIn](https://www.linkedin.com/in/sophiechou-/)
+- [GitHub](https://github.com/sophiechou1)
