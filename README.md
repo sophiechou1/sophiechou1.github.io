@@ -1,1 +1,3 @@
-# sophiechou1.github.io
+# University of Notre Dame
+## Major: Computer Science
+### Minor: Engineering Corportate Practice
