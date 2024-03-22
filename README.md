@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/Sophie Chou Headshot.jpg" alt="Alt text" width="180" height="165">
+  <img src="/assets/Sophie Chou Headshot.jpg" alt="Alt text" width="250" height="235">
 </p>
 
 
