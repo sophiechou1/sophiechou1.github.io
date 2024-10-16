@@ -22,10 +22,6 @@
 - Arduino IDE
 - MatLab
 
-### Software Proficiency
-- Excel
-- SOLIDWORKS
-
 # Links
 - [LinkedIn](https://www.linkedin.com/in/sophiechou-/)
 - [GitHub](https://github.com/sophiechou1)
