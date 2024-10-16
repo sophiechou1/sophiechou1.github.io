@@ -21,6 +21,7 @@
 - Python
 - Arduino IDE
 - MatLab
+
 ### Software Proficiency
 - Excel
 - SOLIDWORKS
