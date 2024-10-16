@@ -22,6 +22,7 @@
 - Arduino IDE
 - MatLab
 
+
 # Links
 - [LinkedIn](https://www.linkedin.com/in/sophiechou-/)
 - [GitHub](https://github.com/sophiechou1)
