@@ -4,10 +4,10 @@ title: Home
 ---
 
 <div style="text-align: center;">
-  <a href="/experience/">Experience</a> | 
-  <a href="/courses/">Courses</a> | 
-  <a href="/activities/">Activities</a> | 
-  <a href="/skills/">Skills</a>
+  <a href="/experience/"> style="text-decoration: none; font-size: 1.2em;">&#8592; Experience</a> | 
+  <a href="/courses/"> style="text-decoration: none; font-size: 1.2em;">&#8592; Courses</a> | 
+  <a href="/activities/"> style="text-decoration: none; font-size: 1.2em;">&#8592; Activities</a> | 
+  <a href="/skills/"> style="text-decoration: none; font-size: 1.2em;">&#8592; Skills</a>
 </div>
 
 
@@ -17,7 +17,7 @@ title: Home
 
 
 # About
-- Hi, I'm Sophie, a current junior at the University of Notre Dame! I am studying Computer Science with a minor in Engineering Corporate Practice. At the University of Notre Dame, I am dedicated to pursuing a well-rounded education that will help me positively contribute to the global community in both the tech and business industries.
+Hi, I'm Sophie, a current junior at the University of Notre Dame! I am studying Computer Science with a minor in Engineering Corporate Practice. At the University of Notre Dame, I am dedicated to pursuing a well-rounded education that will help me positively contribute to the global community in both the tech and business industries.
 
 # Links
 - [LinkedIn](https://www.linkedin.com/in/sophiechou-/)
