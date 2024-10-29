@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: default
 title: "Courses & Projects"
 permalink: /courses/
 ---
+<p><a href="/" style="text-decoration: none; font-size: 1.2em;">&#8592; Back to Home</a></p>
 
 # Relevant Courses and Projects
 ### Courses
