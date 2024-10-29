@@ -23,7 +23,8 @@
 
 # Activities
 ### Study Abroad
-- I am currently tudying abroad in Dublin, Ireland during the fall semester of 2024 at Dublin City University. This culturally-enriching experience has allowed me to grow in character as I have learned to navigate a new way of life surrounding my education. 
+- I am currently tudying abroad in Dublin, Ireland during the fall semester of 2024 at Dublin City University. This culturally-enriching experience has allowed me to grow in character as I have learned to navigate a new way of life surrounding my education.
+  
 ### Notre Dame DanceCo
 - As a DanceCo club member, I learn to manage time effectively while attending classes and going to tri-weekly practices to prepare for the end-of-semester recital. I also practice communication and collaboration with fellow members while exhibiting excellent teamwork and a strong work ethic
 
