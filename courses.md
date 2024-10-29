@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Courses & Projects
+title: "Courses & Projects"
 permalink: /courses/
 ---
 
