@@ -26,8 +26,9 @@ To keep myself busy on campus, I participate in clubs like the Notre Dame Dance 
 Additionally, this summer and the fall 2024 semester I had the opportunity to travel across Europe and discovered that travel is one of my new passions. Travelling through different countries greatly impacted my character as I have grown more culturally aware, resilient, and independent.
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="/assets/i love hiking.jpeg" alt="Image 1" style="width: 250px; height: auto; margin: 10px;">
+  <img src="/assets/I love hiking.jpeg" alt="Image 1" style="width: 250px; height: auto; margin: 10px;">
   <img src="/assets/dome drawing.jpeg" alt="Image 2" style="width: 250px; height: auto; margin: 10px;">
+  <img src="/assets/Italian.jpeg" alt="Image 2" style="width: 250px; height: auto; margin: 10px;">
 </div>
 
 # Links
