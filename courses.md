@@ -13,10 +13,10 @@ permalink: /courses/
 - Through the Notre Dame computer science curriculum, I have gained experience using GitHub to turn in assignments for the following classes:
   - **Systems Programming**
     - Explored the fundamentals of computing systems by focusing on the Unix programming environment. I examined topics like various command line utilities, files, processes, memory management, system calls, data structures, networking, and concurrency, all of which were reflected in assignments and exams
-    - Coded in C, Python3, and was introduced to Linux
-  -  **Data Structures**
+    - Coded in C, Python, and was introduced to Linux
+  - **Data Structures**
     - Explored the fundamental techniques in the design and analysis of non-numerical algorithms and their data structures. I examined topics like elementary data structures such as lists, stacks, queues and more advanced ones such as priority queues and search trees along with design techniques such as divide-and-conquer in the context of sorting and searching and graph algorithms
-    - Coded in C and Python3
+    - Coded in C and Python
   
 ### Projects
 - Throughout my time at Notre Dame, I have had the opportunity to work hands-on with a group through required class projects
