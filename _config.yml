@@ -5,7 +5,7 @@ theme: jekyll-theme-cayman
 nav:
   - title: Experience
     url: /experience/
-  - title: Courses
+  - title: Courses & Projects
     url: /courses/
   - title: Activities & Societies
     url: /activities/
