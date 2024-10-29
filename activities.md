@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Activites & Societies"
 permalink: /activities/
 ---
