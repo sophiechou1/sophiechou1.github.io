@@ -5,11 +5,11 @@ title: Home
 
 <div style="display: flex; justify-content: space-around; align-items: center; text-align: center;">
   <a href="/experience/" style="text-decoration: none; font-size: 1.5em;">Experience</a> 
-  <span style="font-size: 2em;">|</span> 
+  <span style="font-size: 1.5em;">|</span> 
   <a href="/courses/" style="text-decoration: none; font-size: 1.5em;">Courses</a> 
-  <span style="font-size: 2em;">|</span> 
+  <span style="font-size: .1.5em;">|</span> 
   <a href="/activities/" style="text-decoration: none; font-size: 1.5em;">Activities</a> 
-  <span style="font-size: 2em;">|</span> 
+  <span style="font-size: 1.5em;">|</span> 
   <a href="/skills/" style="text-decoration: none; font-size: 1.5em;">Skills</a>
 </div>
 
@@ -22,6 +22,11 @@ title: Home
 Hi, I'm Sophie, a current junior at the University of Notre Dame! I am studying Computer Science with a minor in Engineering Corporate Practice. At the University of Notre Dame, I am dedicated to pursuing a well-rounded education that will help me positively contribute to the global community in both the tech and business industries.
 
 To keep myself busy on campus, I participate in clubs like the Notre Dame Dance Company as well as spending time with my friends! Off campus, I enjoy staying active as I am an avid lover of the outdoors. This includes a variety of activities like hiking, running, and going for walks any chance I get. Furthermore, I consider myself a very creative person, which manifests itself in various ways such as baking, cooking, or drawing and painting. 
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="/assets/i love hiking.jpg" alt="Image 1" style="width: 250px; height: auto; margin: 10px;">
+  <img src="/assets/dome drawing.jpg" alt="Image 2" style="width: 250px; height: auto; margin: 10px;">
+</div>
 
 # Links
 - [LinkedIn](https://www.linkedin.com/in/sophiechou-/)
