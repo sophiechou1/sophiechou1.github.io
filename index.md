@@ -4,10 +4,10 @@ title: Home
 ---
 
 <div style="text-align: center;">
-  <a href="/experience.md/">Experience</a> | 
-  <a href="/courses.md/">Courses</a> | 
-  <a href="/activities.md/">Activities</a> | 
-  <a href="/skills.md/">Skills</a>
+  <a href="/experience/">Experience</a> | 
+  <a href="/courses/">Courses</a> | 
+  <a href="/activities/">Activities</a> | 
+  <a href="/skills/">Skills</a>
 </div>
 
 
