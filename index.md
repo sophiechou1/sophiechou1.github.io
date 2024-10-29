@@ -12,6 +12,11 @@ title: Home
 - Hi, I'm Sophie, a current junior at the University of Notre Dame! I am studying Computer Science with a minor in Engineering Corporate Practice. At the University of Notre Dame, I am dedicated to pursuing a well-rounded education that will help me positively contribute to the global community in both the tech and business industries.
 
 
+- [Experience](/experience/)
+- [Courses](/courses/)
+- [Activities](/activities/)
+- [Skills](/skills/)
+
 # Links
 - [LinkedIn](https://www.linkedin.com/in/sophiechou-/)
 - [GitHub](https://github.com/sophiechou1)
