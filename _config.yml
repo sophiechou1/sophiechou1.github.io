@@ -4,10 +4,10 @@ theme: jekyll-theme-cayman
 
 nav:
   - title: Experience
-    url: /experience/
+    url: /experience.md/
   - title: Courses & Projects
-    url: /courses/
+    url: /courses.md/
   - title: Activities & Societies
-    url: /activities/
+    url: /activities.md/
   - title: Skills
-    url: /skills/
+    url: /skills.md/
