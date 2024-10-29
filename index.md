@@ -4,10 +4,10 @@ title: Home
 ---
 
 <div style="text-align: center;">
-  <a href="/experience/" style="text-decoration: none; font-size: 1.2em;">; Experience</a> | 
-  <a href="/courses/" style="text-decoration: none; font-size: 1.2em;">; Courses</a> | 
-  <a href="/activities/" style="text-decoration: none; font-size: 1.2em;">; Activities</a> | 
-  <a href="/skills/" style="text-decoration: none; font-size: 1.2em;">; Skills</a>
+  <a href="/experience/" style="text-decoration: none; font-size: 1.5em;"> Experience</a> | 
+  <a href="/courses/" style="text-decoration: none; font-size: 1.5em;"> Courses</a> | 
+  <a href="/activities/" style="text-decoration: none; font-size: 1.5em;"> Activities</a> | 
+  <a href="/skills/" style="text-decoration: none; font-size: 1.5em;"> Skills</a>
 </div>
 
 
@@ -18,6 +18,8 @@ title: Home
 
 # About
 Hi, I'm Sophie, a current junior at the University of Notre Dame! I am studying Computer Science with a minor in Engineering Corporate Practice. At the University of Notre Dame, I am dedicated to pursuing a well-rounded education that will help me positively contribute to the global community in both the tech and business industries.
+
+To keep myself busy on campus, I participate in clubs like the Notre Dame Dance Company as well as spending time with my friends! Off campus, I enjoy staying active as I am an avid lover of the outdoors. This includes a variety of activities like hiking, running, and going for walks any chance I get. Furthermore, I consider myself a very creative person, which manifests itself in various ways such as baking, cooking, or drawing and painting. 
 
 # Links
 - [LinkedIn](https://www.linkedin.com/in/sophiechou-/)
