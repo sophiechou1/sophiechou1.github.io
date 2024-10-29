@@ -4,12 +4,14 @@ title: Home
 ---
 
 <div style="display: flex; justify-content: space-around; align-items: center; text-align: center;">
-  <a href="/experience/" style="text-decoration: none; font-size: 1.5em;">Experience</a> | 
-  <a href="/courses/" style="text-decoration: none; font-size: 1.5em;">Courses</a> | 
-  <a href="/activities/" style="text-decoration: none; font-size: 1.5em;">Activities</a> | 
+  <a href="/experience/" style="text-decoration: none; font-size: 1.5em;">Experience</a> 
+  <span style="font-size: 2em;">|</span> 
+  <a href="/courses/" style="text-decoration: none; font-size: 1.5em;">Courses</a> 
+  <span style="font-size: 2em;">|</span> 
+  <a href="/activities/" style="text-decoration: none; font-size: 1.5em;">Activities</a> 
+  <span style="font-size: 2em;">|</span> 
   <a href="/skills/" style="text-decoration: none; font-size: 1.5em;">Skills</a>
 </div>
-
 
 <p align="center">
   <img src="/assets/Sophie Chou Headshot.jpg" alt="Alt text" width="250" height="235">
