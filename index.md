@@ -3,11 +3,11 @@ layout: default
 title: Home
 ---
 
-<div style="text-align: center;">
-  <a href="/experience/" style="text-decoration: none; font-size: 1.5em;"> Experience</a> | 
-  <a href="/courses/" style="text-decoration: none; font-size: 1.5em;"> Courses</a> | 
-  <a href="/activities/" style="text-decoration: none; font-size: 1.5em;"> Activities</a> | 
-  <a href="/skills/" style="text-decoration: none; font-size: 1.5em;"> Skills</a>
+<div style="display: flex; justify-content: space-around; align-items: center; text-align: center;">
+  <a href="/experience/" style="text-decoration: none; font-size: 1.5em;">Experience</a> | 
+  <a href="/courses/" style="text-decoration: none; font-size: 1.5em;">Courses</a> | 
+  <a href="/activities/" style="text-decoration: none; font-size: 1.5em;">Activities</a> | 
+  <a href="/skills/" style="text-decoration: none; font-size: 1.5em;">Skills</a>
 </div>
 
 
