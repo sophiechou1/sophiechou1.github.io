@@ -4,10 +4,10 @@ title: Home
 ---
 
 <div style="text-align: center;">
-  <a href="/experience/" style="text-decoration: none; font-size: 1.2em;">&#8592; Experience</a> | 
-  <a href="/courses/" style="text-decoration: none; font-size: 1.2em;">&#8592; Courses</a> | 
-  <a href="/activities/" style="text-decoration: none; font-size: 1.2em;">&#8592; Activities</a> | 
-  <a href="/skills/" style="text-decoration: none; font-size: 1.2em;">&#8592; Skills</a>
+  <a href="/experience/" style="text-decoration: none; font-size: 1.2em;">; Experience</a> | 
+  <a href="/courses/" style="text-decoration: none; font-size: 1.2em;">; Courses</a> | 
+  <a href="/activities/" style="text-decoration: none; font-size: 1.2em;">; Activities</a> | 
+  <a href="/skills/" style="text-decoration: none; font-size: 1.2em;">; Skills</a>
 </div>
 
 
