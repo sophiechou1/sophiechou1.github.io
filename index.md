@@ -3,8 +3,13 @@ layout: default
 title: Home
 ---
 
+<div style="text-align: center;">
+  <a href="/experience.md/">Experience</a> | 
+  <a href="/courses.md/">Courses</a> | 
+  <a href="/activities.md/">Activities</a> | 
+  <a href="/skills.md/">Skills</a>
+</div>
 
-### [Experience](/experience.md/) | [Courses](/courses.md/) | [Activities](/activities.md/) | [Skills](/skills.md/)
 
 <p align="center">
   <img src="/assets/Sophie Chou Headshot.jpg" alt="Alt text" width="250" height="235">
