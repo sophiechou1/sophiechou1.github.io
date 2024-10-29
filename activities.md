@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Activites & Societies
+title: "Activites & Societies"
 permalink: /activities/
 ---
 
