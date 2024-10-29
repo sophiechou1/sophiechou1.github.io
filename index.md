@@ -13,6 +13,7 @@ title: Home
   <a href="/skills/" style="text-decoration: none; font-size: 1.5em;">Skills</a>
 </div>
 
+<br>
 
 <p align="center">
   <img src="/assets/Sophie Chou Headshot.jpg" alt="Alt text" width="250" height="235">
