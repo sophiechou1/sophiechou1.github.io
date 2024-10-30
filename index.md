@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Home - Sophie Chou
 ---
 
 <div style="display: flex; justify-content: space-around; align-items: center; text-align: center;">
