@@ -9,7 +9,7 @@ permalink: /experience/
 
 ### International Research Experiences for Students (IRES) Intern | May 2024 - July 2024
 **Lyon, France - National Science Foundation**
-Project Title: IRES Track 1: Impact of Emerging Information Processing Technologies on Architectures and Applications – a U.S.—French Partnership
+- Project Title: IRES Track 1: Impact of Emerging Information Processing Technologies on Architectures and Applications – a U.S.—French Partnership
 - I worked as a research intern during the summer of 2024, studying emerging technologies in the context of transformer networks and the effect of using different memory devices and architectures. My project was in collaboration with two other students, where our research focused on the proposed 1FeFET-1C device, which integrates a ferroelectric field-effect transistor (FeFET) and a capacitor to create efficient, low-power, and non-volatile memory and logic circuits. Building upon our foundational work with transformer networks, we developed a Python simulation of the 1FeFET-1C transformer-encoding process which aimed to quantify latency and energy efficiency through the customization of various parameters. The 1FeFET-1C device will be proposed in a paper at the upcoming Design, Automation and Test in Europe (DATE) Conference, and I am honored to have been a part of the process. Furthermore, this research allowed us to create a visual analysis of the current in-memory computing landscape, which was presented at the Semiconductor Research Corporation (SRC)'s Annual Review.
 
 ### Undergraduate Student Researcher | January 2024 - May 2024
