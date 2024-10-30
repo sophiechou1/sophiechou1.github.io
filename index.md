@@ -7,7 +7,7 @@ title: Home
   <a href="/experience/" style="text-decoration: none; font-size: 1.5em;">Experience</a> 
   <span style="font-size: 1.5em;">|</span> 
   <a href="/courses/" style="text-decoration: none; font-size: 1.5em;">Courses</a> 
-  <span style="font-size: .1.5em;">|</span> 
+  <span style="font-size: 1.5em;">|</span> 
   <a href="/activities/" style="text-decoration: none; font-size: 1.5em;">Activities</a> 
   <span style="font-size: 1.5em;">|</span> 
   <a href="/skills/" style="text-decoration: none; font-size: 1.5em;">Skills</a>
