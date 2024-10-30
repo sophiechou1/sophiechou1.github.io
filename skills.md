@@ -16,7 +16,10 @@ Through coursework at Notre Dame, I have had the opportunity to learn and gain p
 - Haskell
 
 ### Other Softwares
-- Excel
+- GitHub
+- Microsoft Excel
+- Microsoft Powerpoint
+- Microsoft Word
 - SOLIDWORKS
 
 # Interpersonal Skills
