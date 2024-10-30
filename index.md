@@ -23,7 +23,7 @@ title: Sophie Chou
 # About
 Hi, I'm Sophie, a current junior at the University of Notre Dame! I am studying Computer Science with a minor in Engineering Corporate Practice. At the University of Notre Dame, I am dedicated to pursuing a well-rounded education that will help me positively contribute to the global community in both the tech and business industries.
 
-To keep myself busy on campus, I participate in clubs like the Notre Dame Dance Company as well as spend time with my friends. Off campus, I enjoy staying active as I am an avid lover of the outdoors. This includes a variety of activities like hiking, running, and going for walks any chance I get. Furthermore, I consider myself a very creative person, which manifests itself in various ways such as baking, cooking, or drawing and painting.
+To keep myself busy on campus, I participate in clubs like the Notre Dame Dance Company as well as spend time with my friends. Off campus, I enjoy staying active as I am an avid lover of the outdoors. This includes a variety of activities like hiking, running, and going for walks any chance I get. Furthermore, I consider myself a very creative person, which manifests itself in various ways such as baking and cooking, or drawing and painting.
 
 Additionally, this summer and the fall 2024 semester I had the opportunity to travel across Europe and discovered that travel is one of my new passions. Travelling through different countries greatly impacted my character as I have grown more culturally aware, resilient, and independent.
 
