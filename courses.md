@@ -10,17 +10,17 @@ permalink: /courses/
 - Fundamentals of Computing, Embedded Systems, Discrete Math, Integrated Engineering and Business, Linear Algebra, Systems Programming, Data Structures, Logic Design, Computer Architecture, Theory of Computing
 
 ### Coursework
-- Through the Notre Dame computer science curriculum, I have gained experience using GitHub to turn in assignments for the following classes:
-  - **Systems Programming**
-    - Explored the fundamentals of computing systems by focusing on the Unix programming environment. I examined topics like various command line utilities, files, processes, memory management, system calls, data structures, networking, and concurrency, all of which were reflected in assignments and exams
-    - Coded in C, Python, and was introduced to Linux
-  - **Data Structures**
-    - Explored the fundamental techniques in the design and analysis of non-numerical algorithms and their data structures. I examined topics like elementary data structures such as lists, stacks, queues and more advanced ones such as priority queues and search trees along with design techniques such as divide-and-conquer in the context of sorting and searching and graph algorithms
-    - Coded in C and Python
+Through the Notre Dame computer science curriculum, I have gained experience using GitHub to turn in assignments for the following classes:
+- **Systems Programming**
+  - Explored the fundamentals of computing systems by focusing on the Unix programming environment. I examined topics like various command line utilities, files, processes, memory management, system calls, data structures, networking, and concurrency, all of which were reflected in assignments and exams
+  - Coded in C, Python, and was introduced to Linux
+- **Data Structures**
+  - Explored the fundamental techniques in the design and analysis of non-numerical algorithms and their data structures. I examined topics like elementary data structures such as lists, stacks, queues and more advanced ones such as priority queues and search trees along with design techniques such as divide-and-conquer in the context of sorting and searching and graph algorithms
+  - Coded in C and Python
   
 ### Projects
-- Throughout my time at Notre Dame, I have had the opportunity to work hands-on with a group through required class projects
-  - **2024 Internship**
+Throughout my time at Notre Dame, I have had the opportunity to work hands-on through group projects in both class and my internship.
+  - **2024 Summer Internship**
     - [Summer 2024 Research Overview](https://drive.google.com/file/d/1JLobanMghU0BThjfUFPfDm1kEdzmRJpL/view?usp=sharing)
     - This summer I had the opportunity to collaborate with two other Notre Dame students to code a simulator in Python for the emerging 1FeFET-1C technology. This presentation is an overview of our research and was presented to our colleagues and supervisor at Ecole Centrale during the summer. This simulator and corresponding research will be showcased in a paper at the upcoming Design, Automation and Test in Europe (DATE) Conference.
   - **Embedded Systems and the IOT** 
