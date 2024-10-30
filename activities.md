@@ -11,7 +11,7 @@ I am currently studying abroad in Dublin, Ireland during the fall semester of 20
 - **Global Perspective in Technology**
   - The relevant courses at DCU I am taking include Computer Architecture, Theory of Computing, Probability and Statistics. Studying computer science abroad has given me exposure to how different countries approach technology and education. This experience has helped me understand the global impact of different ways to approach problem-solving.
 - **Networking with International Peers and Professors**
-  - Interacting with my Irish peers has been broadened my academic network and allowed me to understand the education system abroad and how it has compared to my experience in the United States.  
+  - Interacting with my Irish peers has broadened my academic network and allowed me to understand the education system abroad and how it has compared to my experience in the United States.  
   
 ### Notre Dame DanceCo
 As a DanceCo club member, I learn to manage time effectively while attending classes and going to tri-weekly practices to prepare for the end-of-semester recital. I also practice communication and collaboration with fellow members while exhibiting excellent teamwork and a strong work ethic.
