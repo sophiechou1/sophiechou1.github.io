@@ -18,5 +18,5 @@ permalink: /experience/
 
 ### JustLead Tutor | May 2023 - July 2023
 **Knoxville. TN - Emerald Youth Foundation**
-- My summer job before the start of my sophomore year, I worked as a tutor for economically disadvantaged children from South Knoxville. I tutored four kids aged 6-10 in math and reading to increase proficiency
+- I worked as a tutor for economically disadvantaged children from South Knoxville as my summer job before the start of my sophomore year. I tutored four kids aged 6-10 in math and reading to increase proficiency
 before the start of the following school year. This job was incredibly gratifying as it was amazing to see the growth and impact I had on children who are behind in their education. Through this role I learned patience and further developed my communication skills.
