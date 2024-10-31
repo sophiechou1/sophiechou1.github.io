@@ -12,7 +12,6 @@ Through coursework at Notre Dame, I have had the opportunity to learn and gain p
 - Python
 - Bash
 - R
-- C++
 - MatLab
 - Haskell
 
