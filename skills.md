@@ -11,14 +11,14 @@ Through coursework at Notre Dame, I have had the opportunity to learn and gain p
 - C
 - Python
 - R
-- Arduino IDE
+- ArduinoIDE
 - MatLab
 - Haskell
 
 ### Other Softwares
 - GitHub
 - Microsoft Excel
-- Microsoft Powerpoint
+- Microsoft PowerPoint
 - Microsoft Word
 - SOLIDWORKS
 
