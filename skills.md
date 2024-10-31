@@ -10,8 +10,9 @@ Through coursework at Notre Dame, I have had the opportunity to learn and gain p
 ### Programming Languages
 - C
 - Python
+- Bash
 - R
-- ArduinoIDE
+- C++
 - MatLab
 - Haskell
 
@@ -20,6 +21,7 @@ Through coursework at Notre Dame, I have had the opportunity to learn and gain p
 - Microsoft Excel
 - Microsoft PowerPoint
 - Microsoft Word
+- ArduinoIDE
 - SOLIDWORKS
 
 # Interpersonal Skills
