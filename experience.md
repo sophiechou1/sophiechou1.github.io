@@ -7,7 +7,7 @@ permalink: /experience/
 
 # Experience
 ### Florist | January 2025 - Present
-**Notre Dame, IN - University of Notre Dame**
+**Notre Dame, IN - Irish Gardens Flower Shop**
 - As a florist, I create and deliver custom and professional floral arrangements while practicing good communication with coworkers and excellent customer service skills. This position has allowed my creativity to flourish, deepened friendships with coworkers and taught me how to navigate a customer-centric model of business. 
 
 ### Undergraduate Student Researcher | January 2024 - Present
