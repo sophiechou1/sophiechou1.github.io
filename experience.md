@@ -12,7 +12,7 @@ permalink: /experience/
 
 ### Undergraduate Student Researcher | January 2024 - Present
 **Notre Dame, IN - University of Notre Dame**
-- During the spring semester of 2024 and currently the spring semester of 2025, I am an undergraduate student researcher studying AI transformer networks under guidance of Notre Dame professor Dr. Michael Niemier. This research position introduced me to research and allowed me to develop unique problem-solving skills. Furthermore, I collaborate with two other undergraduate students, Dr. Niemier's PhD students, which have sharpened my professional and technical communication skills.
+- During the spring semester of 2024 and currently the spring semester of 2025, I am an undergraduate student researcher studying AI transformer networks under guidance of Notre Dame professor Dr. Michael Niemier. This research position introduced me to research and allowed me to develop unique problem-solving skills. Furthermore, I collaborate with two other undergraduate students and Dr. Niemier's PhD students, which has sharpened my professional and technical communication skills.
 
 ### International Research Experiences for Students (IRES) Intern | May 2024 - July 2024
 **Lyon, France - National Science Foundation**
