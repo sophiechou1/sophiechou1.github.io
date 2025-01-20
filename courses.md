@@ -23,7 +23,7 @@ Through the Notre Dame computer science curriculum, I have gained experience usi
 Throughout my time at Notre Dame, I have had the opportunity to work hands-on through group projects in both class and my internship.
   - **2024 Summer Internship**
     - [Summer 2024 Research Overview](https://drive.google.com/file/d/1JLobanMghU0BThjfUFPfDm1kEdzmRJpL/view?usp=sharing)
-    - [Hybrid Volatile and Non-Volatile CIM based on FeFETs for Accelerating Transformer Workloads]([https://drive.google.com/file/d/1P4pBL-zz1--QVW3dRFTsC1Wwn25Hj_hl/view?usp=drive_link)
+    - [Hybrid Volatile and Non-Volatile CIM based on FeFETs for Accelerating Transformer Workloads](https://drive.google.com/file/d/1P4pBL-zz1--QVW3dRFTsC1Wwn25Hj_hl/view?usp=sharing)
     - This summer I had the opportunity to collaborate with two other Notre Dame students to code a simulator in Python for the emerging 1FeFET-1C technology. This presentation is an overview of our research and was presented to our colleagues and supervisor at Ecole Centrale during the summer. This simulator and corresponding research will be showcased in a paper at the upcoming Design, Automation and Test in Europe (DATE) Conference I co-authored titled: *Hybrid Volatile and Non-Volatile CIM based on FeFETs for Accelerating Transformer Workloads*
   - **Embedded Systems and the IOT** 
     - [Embedded Systems Arduino Alarm Clock](https://drive.google.com/file/d/1fqGMwwIqGyOh9vdnps0222qhOzG6_P9j/view?usp=sharing)
