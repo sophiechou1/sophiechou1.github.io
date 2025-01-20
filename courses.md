@@ -26,10 +26,10 @@ Throughout my time at Notre Dame, I have had the opportunity to work hands-on th
     - [Hybrid Volatile and Non-Volatile CIM based on FeFETs for Accelerating Transformer Workloads](https://drive.google.com/file/d/1P4pBL-zz1--QVW3dRFTsC1Wwn25Hj_hl/view?usp=sharing)
     - This summer I had the opportunity to collaborate with two other Notre Dame students to code a simulator in Python for the emerging 1FeFET-1C technology. This presentation is an overview of our research and was presented to our colleagues and supervisor at Ecole Centrale during the summer. This simulator and corresponding research will be showcased in a paper at the upcoming Design, Automation and Test in Europe (DATE) Conference I co-authored titled: *Hybrid Volatile and Non-Volatile CIM based on FeFETs for Accelerating Transformer Workloads*.
   - **Drawing I**
-  - [Ballerina](https://drive.google.com/file/d/1emdz7ZQTJJ5bHfRkQt4K132BWNIVMSZM/view?usp=sharing)
-  - [Great Smoky Mountains](https://drive.google.com/file/d/1H-93QybeeQ5jiNUwQInK9hgEkCDstzrH/view?usp=sharing)
-  - [Still Life](https://drive.google.com/file/d/1ICoFSmROLnApCvNZvzijbLjBshAWgIiG/view?usp=sharing)
-  - [Notre Dame](https://drive.google.com/file/d/152YbyKDKzlaQMf7OAA_uCNZii7nX-O1h/view?usp=sharing)
+    - [Ballerina](https://drive.google.com/file/d/1emdz7ZQTJJ5bHfRkQt4K132BWNIVMSZM/view?usp=sharing)
+    - [Great Smoky Mountains](https://drive.google.com/file/d/1H-93QybeeQ5jiNUwQInK9hgEkCDstzrH/view?usp=sharing)
+    - [Still Life](https://drive.google.com/file/d/1ICoFSmROLnApCvNZvzijbLjBshAWgIiG/view?usp=sharing)
+    - [Notre Dame](https://drive.google.com/file/d/152YbyKDKzlaQMf7OAA_uCNZii7nX-O1h/view?usp=sharing)
     - Although Drawing I is not a computer science class or even required for the degree, I learned that there are many similarities in drawing and programming. An artist solves the "problem" of how to depict a concept visually, while in programming, a developer designs an algorithm to solve a computational problem. Both require attention to detail, creativity, and problem-solvinng skills. In the Drawing I class I took at Notre Dame, I learned how to depict ideas I constructed in my head to fulfill an open-ended prompt - much like if I were visualizing an algorithm to solve some coding problem. I have attached several of my pieces here.
   - **Embedded Systems and the IOT** 
     - [Embedded Systems Arduino Alarm Clock](https://drive.google.com/file/d/1fqGMwwIqGyOh9vdnps0222qhOzG6_P9j/view?usp=sharing)
