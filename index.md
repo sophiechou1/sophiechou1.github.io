@@ -15,7 +15,7 @@ title: Sophie Chou
 
 <br>
 
-<link rel="icon" type="image/x-icon" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" href="/assets/favicon-32x32.png">
 
 <div div style="display: flex; justify-content: center; align-items: center;">
   <img src="/assets/IMG_9877.JPG" alt="Alt text" style="width: 250px; height: auto; margin: 10px;">
