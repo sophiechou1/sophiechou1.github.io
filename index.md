@@ -2,6 +2,9 @@
 layout: default
 title: Sophie Chou
 ---
+<head>
+  <link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
+</head>
 
 <style>
   /* Make navigation responsive */
