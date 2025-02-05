@@ -42,7 +42,7 @@ title: Sophie Chou
 </style>
 
 
-<div style="display: flex; justify-content: space-around; align-items: center; text-align: center;">
+<div class="nav-container">
   <a href="/experience/" style="text-decoration: none; font-size: 1.5em;">Experience</a> 
   <span style="font-size: 1.5em;">☆</span> 
   <a href="/courses/" style="text-decoration: none; font-size: 1.5em;">Courses</a> 
