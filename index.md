@@ -2,9 +2,45 @@
 layout: default
 title: Sophie Chou
 ---
-<head>
-  <link rel="icon" type="image/png" href="/assets/favicon-32x32.png">
-</head>
+
+<style>
+  /* Make navigation responsive */
+  .nav-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    text-align: center;
+  }
+
+  .nav-container a {
+    text-decoration: none;
+    font-size: 1.5em;
+  }
+
+  /* Make images responsive */
+  .image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .image-container img {
+    width: 100%;
+    max-width: 250px;
+    height: auto;
+    margin: 10px;
+  }
+
+  /* Responsive layout */
+  @media (max-width: 768px) {
+    .nav-container {
+      flex-direction: column;
+    }
+  }
+</style>
+
 
 <div style="display: flex; justify-content: space-around; align-items: center; text-align: center;">
   <a href="/experience/" style="text-decoration: none; font-size: 1.5em;">Experience</a> 
