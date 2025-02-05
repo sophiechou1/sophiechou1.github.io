@@ -20,8 +20,6 @@ title: Sophie Chou
 
 <div div style="display: flex; justify-content: center; align-items: center;">
   <img src="/assets/IMG_9877.JPG" alt="Alt text" style="width: 250px; height: auto; margin: 10px;">
-  <img src="/assets/Sophie Chou Headshot.jpg" alt="Alt text" style="width: 250px; height: auto; margin: 10px;">
-  <img src="/assets/IMG_7228_jpg.JPG" alt="Alt text" style="width: 250px; height: auto; margin: 10px;">
 </div>
 
 
