@@ -1,13 +1,13 @@
-title: sophie chou
-description: Clinton, TN | schou2@nd.edu
-theme: jekyll-theme-cayman
+# title: sophie chou
+# description: Clinton, TN | schou2@nd.edu
+# theme: jekyll-theme-cayman
 
-nav:
-  - title: Experience
-    url: /experience.md/
-  - title: Courses & Projects
-    url: /courses.md/
-  - title: Activities & Societies
-    url: /activities.md/
-  - title: Skills
-    url: /skills.md/
+# nav:
+#   - title: Experience
+#     url: /experience.md/
+#   - title: Courses & Projects
+#     url: /courses.md/
+#   - title: Activities & Societies
+#     url: /activities.md/
+#   - title: Skills
+#     url: /skills.md/
