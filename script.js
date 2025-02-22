@@ -27,4 +27,6 @@ document.getElementById("viewResumeBtn").addEventListener("click", function() {
 
 document.getElementById("email").addEventListener("click", function() { 
     button.href = 'mailto:schou2@nd.edu';
+    var container = document.querySelector('.container.text-center.my-4');
+    container.appendChild(button);
 });
