@@ -3,7 +3,7 @@
 // function to open email and email me
 window.onload = function() {
     // don't show if not on home page
-    if (window.location.href.includes('home.html')) {
+    if (window.location.href.includes('index.html')) {
         // create new button element
         var button = document.createElement('a');
         // email link
