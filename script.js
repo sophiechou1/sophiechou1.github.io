@@ -22,5 +22,5 @@ window.onload = function() {
 
 // open resume in new tab if button is clicked
 document.getElementById("viewResumeBtn").addEventListener("click", function() { 
-    window.open("C:\\Users\\sophi\\OneDrive\\Desktop\\Sophie\\Sophie Chou - Resume.pdf", "_blank");
+    window.open("/assets/Sophie Chou - Resume.pdf", "_blank");
 });
