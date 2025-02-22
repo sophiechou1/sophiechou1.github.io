@@ -49,8 +49,12 @@ body {
     display: inline-block;
 }
 
+.navbar {
+    background-color: #ebebeb;
+}
+
 .footer {
-    background-color: #f8f9fa;
+    background-color: #ebebeb;
 }
 
 .custom-button {
