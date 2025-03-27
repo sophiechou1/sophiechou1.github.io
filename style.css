@@ -4,26 +4,33 @@ h1 {
     font-size: 2em;
     color: white;
     text-align: center;
-    font-family: "Oleo Script", cursive;
+    font-family: 'Trebuchet MS', sans-serif;
  }
 
 h2 { 
     font-size: 2.2em;
     color: black;
     text-align: center;
-    font-family: "Oleo Script", cursive;
+    font-family: 'Trebuchet MS', sans-serif;
 }
  
 h3 {
     font-size: 1.2em;
     color: #208454;
-    font-family: "Montserrat Alternates", serif;;
+    font-family: 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+
+h5 {
+    font-size: 1.2em;
+    color: #208454;
+    font-family: 'Trebuchet MS', sans-serif;
     font-weight: bold;
 }
 
 body {
     height: 100%;
-    font-family: Montserrat Alternates;
+    font-family: Garamond, serif;
     display: flex;
     flex-direction: column;
 }
@@ -34,7 +41,7 @@ body {
 }
 
 .main-container { 
-    font-family: Montserrat Alternates;
+    font-family: 'Trebuchet MS', sans-serif;
     text-align: center;
     background-color: black;
     padding: 15px;
@@ -42,6 +49,7 @@ body {
  }
 
 .main-container a {
+    font-family: 'Trebuchet MS', sans-serif;
     color: white;
     text-decoration: none;
     margin: 0 10px;
@@ -49,22 +57,19 @@ body {
     display: inline-block;
 }
 
-.navbar {
-    background-color: #ebebeb;
-}
-
 .footer {
-    background-color: light;
+    background-color: #f8f9fa;
 }
 
 .custom-button {
+    font-family: 'Trebuchet MS', sans-serif;
     background-color: #208454;
     color: white;
     border: none;
 }
 
 .montserrat-alternates-thin {
-    font-family: "Montserrat Alternates", serif;
+    font-family: Garamond, serif;
     font-weight: 100;
     font-style: normal;
 }
@@ -74,3 +79,9 @@ body {
     max-width: 800px;
     margin: 0 auto;
 }
+
+#header {
+    font-size: larger;
+    font-weight: bold;
+}
+
