@@ -107,6 +107,13 @@
     padding-top: 60px;
 }
 
+@media (max-width: 767.98px) {
+  .slides {
+    height: auto;    
+    min-height: 100vh; 
+  }
+}
+
 .slides img {
     width: 175px;
 }
