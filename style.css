@@ -54,7 +54,7 @@
 .bordered-box {
   border: 2px solid white;
   border-radius: 12px;
-  background-color: rgba(255, 255, 255, 0.05); /* subtle contrast background */
+  background-color: rgba(255, 255, 255, 0.05);
   transition: transform 0.3s ease, background-color 0.3s ease;
 }
 
@@ -133,11 +133,11 @@
 }
 
 .slide1 {
-    background: linear-gradient(454deg, #dd5e89, #f7bb97);
+    background: linear-gradient(454deg, #13a8a1, #f7cf97);
 }
 
 .slide2 {
-    background: linear-gradient(454deg, #104b9e , #1fadc9);
+    background: linear-gradient(454deg, #104b9e , #1fc97a);
 }
 
 .slide3 {
@@ -149,7 +149,7 @@
 }
 
 .slide5 {
-    background: linear-gradient(454deg, #168782, #4cca69);
+    background: linear-gradient(454deg, #ed7eae, #d53636);
 }
 
 .about-text p {
