@@ -6,7 +6,7 @@
 }
 
 .slides p {
-    font-size: 18px;
+    font-size: 20px;
     max-width: 650px;
     text-align: center;
     line-height: 1.6;
@@ -19,7 +19,7 @@
 }
 
 .text-section p2 {
-  font-size: 16px;
+  font-size: 20px;
   line-height: 1.6;
   color: #f0f0f0;
   margin-top: 10px;
@@ -89,7 +89,7 @@
     width: 100%;
     height: 100vh;
     overflow-y: scroll;
-    scroll-snap-type: y mandatory;
+    scroll-snap-type: y proximity;
     scroll-behavior: smooth;
 }
 
@@ -133,27 +133,28 @@
 }
 
 .slide1 {
-    background: linear-gradient(454deg, #13a8a1, #f7cf97);
+    background: linear-gradient(454deg, #08afa7, #e6ad5f);
 }
 
 .slide2 {
-    background: linear-gradient(454deg, #104b9e , #1fc97a);
+  background: linear-gradient(454deg, #08afa7, #e6ad5f);
 }
 
 .slide3 {
-    background: linear-gradient(454deg, #8a2688, #625ed2);
+  background: linear-gradient(454deg, #08afa7, #e6ad5f);
 }
 
 .slide4 {
-    background: linear-gradient(454deg, #fc5800, #f1be02);
+  background: linear-gradient(454deg, #08afa7, #e6ad5f);
 }
 
 .slide5 {
-    background: linear-gradient(454deg, #ed7eae, #d53636);
+  background: linear-gradient(454deg, #08afa7, #e6ad5f);
 }
 
+
 .about-text p {
-    font-size: 17px;
+    font-size: 18px;
 }
 .about-text h3 {
     font-size: 19px;
@@ -264,13 +265,14 @@
 
 .timeline-content p {
   color: white;
+  font-size: 18px;
   text-align: left;
   margin-bottom: 0;
 }
 
 .timeline-content p.fst-italic {
   font-size: 14px;
-  color: #e4e4e4;
+  color: #ffffff;
   margin-bottom: 10px;
 }
 
