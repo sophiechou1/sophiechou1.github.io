@@ -133,23 +133,23 @@
 }
 
 .slide1 {
-    background: linear-gradient(454deg, #08afa7, #e6ad5f);
+    background-image: linear-gradient(-225deg, #3b60b4 0%, #7198d6 50%, #a7cefa 100%);
 }
 
 .slide2 {
-  background: linear-gradient(454deg, #08afa7, #e6ad5f);
+  background-image: linear-gradient(-225deg, #3b60b4 0%, #7198d6 50%, #a7cefa 100%);
 }
 
 .slide3 {
-  background: linear-gradient(454deg, #08afa7, #e6ad5f);
+  background-image: linear-gradient(-225deg, #3b60b4 0%, #7198d6 50%, #a7cefa 100%);
 }
 
 .slide4 {
-  background: linear-gradient(454deg, #08afa7, #e6ad5f);
+  background-image: linear-gradient(-225deg, #3b60b4 0%, #7198d6 50%, #a7cefa 100%);
 }
 
 .slide5 {
-  background: linear-gradient(454deg, #08afa7, #e6ad5f);
+  background-image: linear-gradient(-225deg, #3b60b4 0%, #7198d6 50%, #a7cefa 100%);
 }
 
 
